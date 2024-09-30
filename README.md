@@ -1,11 +1,6 @@
 # ml-segmentaion-impl
-Popular segmentation algorithm implementation
+This repository contains code of the paper titled ["Automatic segmentation of blood cells from microscopic slides: A
+comparative analysis"](https://www.sciencedirect.com/science/article/abs/pii/S0040816621001695) by Deponker Sarker Depto et al, for the purpose of result reproduction.
 
-## paper
-[link](https://drive.google.com/drive/folders/1fxaYZInBp4g5IqCHCi0jAxvWJlbirQhh)
-## dataset
-[google drive](https://drive.usercontent.google.com/download?id=1nG-ra6BPAZSTsdYCvedzCo-JLD7jdH71&export=download&authuser=0)
-
-
-
-dice_coef: 0.5561 - jaccard_index: 0.4338 - loss: 0.3865 - val_dice_coef: 0.5720 - val_jaccard_index: 0.4525 - val_loss: 0.3680
+## Dataset
+Dataset can be found at this [link](https://github.com/Deponker/Blood-cell-segmentation-dataset) 
